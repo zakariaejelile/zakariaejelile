@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Zakariae  
 
-![Banner](https://i.imgur.com/4M7IWwP.png)  
-*(you can replace this banner with your own custom image)*  
-
 🎯 **Aspiring Backend Developer** | 💻 Junior Software Engineer | 🌍 Based in Morocco  
 
 ---
